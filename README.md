@@ -20,7 +20,7 @@ This project is a **breath-controlled MIDI device** that allows musicians to con
 
 ## Hardware & Software
 **Hardware:** Arduino Uno, pressure sensor, wires, breadboard, USB.  
-**Software:** Arduino IDE (C++), MIDI Library, Logic Pro.  
+**Software:** Logic Pro, Visual Studio Code (with PlatformIO and C/C++ microsoft)  
 
 ---
 
